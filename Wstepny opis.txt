@@ -1,0 +1,4 @@
+Planujê zrobiæ projekt komunikatora internetowego, pozwalaj¹cego wymieniaæ wiadomoœci
+miêdzy dwoma u¿ytkownikami. Na projekt sk³adaæ siê bêd¹ dwie aplikacje: serwera oraz
+klienta. Obie aplikacje bêd¹ posiada³y proste GUI stworzone w WPF. Komunikacja odbywaæ
+siê bêdzie przez protokó³ TCP/IP.
